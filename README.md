@@ -34,7 +34,10 @@ You can play with a demo-version here: [Demo](ec2-52-37-169-120.us-west-2.comput
 ## Screenshots
 
 ![Login View](./screenshots/login.png "Login View")
+___
 ![Header](./screenshots/header.png "Header")
+___
 ![Post Detail](./screenshots/listing.png "Post Detail")
+___
 ![Main Gallery](./screenshots/main.png "Main Gallery")
 
