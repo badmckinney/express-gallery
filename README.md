@@ -33,8 +33,8 @@ You can play with a demo-version here: [Demo](ec2-52-37-169-120.us-west-2.comput
 
 ## Screenshots
 
-![Main Gallery](./screenshots/main.png "Main Gallery")
 ![Login View](./screenshots/login.png "Login View")
-![Post Detail](./screenshots/listing.png "Post Detail")
 ![Header](./screenshots/header.png "Header")
+![Post Detail](./screenshots/listing.png "Post Detail")
+![Main Gallery](./screenshots/main.png "Main Gallery")
 
