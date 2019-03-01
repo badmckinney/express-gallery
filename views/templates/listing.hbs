@@ -1,0 +1,14 @@
+{{>header}}
+
+<div id="feature">
+  <a href="/gallery/{{id}}"><img class="banner" src="{{link}}"></a>
+</div>
+
+<div id="grid">
+  {{#each secondaryPhotos}}
+  <div class="column">
+    <a href="/gallery/{{id}}"><img class="column__img" src="{{link}}"></a>
+    <h3 class="column__detail">{{title}} – {{author}}</h3>
+  </div>
+  {{/each}}
+</div>
