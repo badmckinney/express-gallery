@@ -27,10 +27,6 @@ A Content Management System (CMS) for hiking enthusiasts built on an Express ser
 * Chai
 * Supertest
 
-## How to run?
-
-You can play with a demo-version here: [Demo](ec2-52-37-169-120.us-west-2.compute.amazonaws.com)
-
 ## Screenshots
 
 ![Login View](./screenshots/login.png "Login View")
